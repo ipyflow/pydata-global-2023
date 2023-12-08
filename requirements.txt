@@ -1,0 +1,4 @@
+ipyflow
+matplotlib
+numpy
+pyccolo
